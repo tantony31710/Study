@@ -2,3 +2,13 @@
 .qodo
 archive.zip
 certifications/
+node_modules/
+.ai
+.kilo
+/
+.venv/
+.idea/
+__pycache__/
+.claude
+.freebuff
+Competition 
