@@ -1,0 +1,12 @@
+Command line alias added: "llama-batched-bench"
+Command line alias added: "llama-bench"
+Command line alias added: "llama-cli"
+Command line alias added: "llama-gguf-split"
+Command line alias added: "llama-imatrix"
+Command line alias added: "llama-mtmd-cli"
+Command line alias added: "llama-perplexity"
+Command line alias added: "llama-quantize"
+Command line alias added: "llama-server"
+Command line alias added: "llama-tokenize"
+Command line alias added: "llama-tts"
+"$env:LOCALAPPDATA\Microsoft\WinGet\Packages\ggml.llamacpp_Microsoft.Winget.Source_8wekyb3d8bbwe\llama-server.exe" -hf ggml-org/Qwen2.5-Coder-1.5B-Q8_0-GGUF -ub 1024 -b 1024 -dt 0.1 --ctx-size 0 --cache-reuse 256 --port 8012
